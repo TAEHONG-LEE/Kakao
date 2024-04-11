@@ -31,4 +31,29 @@ header .logo {
     bottom: 0;
     left: 0;
     margin: auto;
+    display: none;
+}
+header .sub-menu{
+
+}
+header .sub-menu ul.menu {
+
+}
+header .sub-menu ul.menu li {
+
+}
+header .sub-menu ul.menu li a{
+    background-color: white;
+    font-size: 12px;
+    padding: 11px 16px;
+    display: block;
+}
+header .sub-menu .search {
+
+}
+header .sub-menu .search input{
+    
+}
+header .sub-menu .search .material-icons{
+    
 }
